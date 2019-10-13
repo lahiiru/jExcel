@@ -4,7 +4,6 @@ import javax.swing.*;
 import java.io.FileNotFoundException;
 import javax.xml.stream.XMLStreamException;
 /**
- * @author adm.trine@gmail.com
  */
 public class Spreadsheet{
     public static void main(String[] args) throws XMLStreamException, FileNotFoundException {
